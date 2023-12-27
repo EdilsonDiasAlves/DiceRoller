@@ -4,6 +4,7 @@
 
 App created as an exercise using jetpack compose
 
+![preview](https://github.com/EdilsonDiasAlves/DiceRoller/assets/5980465/67b649a5-7ebb-4eaf-a439-32ee356b4ac8)
 
 ## Getting Started
 
